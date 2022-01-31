@@ -1,4 +1,4 @@
-pragma solidity ^0.6.1;
+pragma solidity ^0.8.11;
 
 contract Inbox {
     // storage or state variables - persisted in the blockchain
