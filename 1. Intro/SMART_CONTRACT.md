@@ -1,12 +1,15 @@
-## Smart Contracts
+# Smart Contracts
 
-- an account controlled by code instead of people.
+- an account controlled by code instead of people
+- similar to a metamask account but controlled by code
 
-Contract account:
+## Contents of a Contract account:
 
-- balance : amount of ether this account owns
-- storage : data storage for this contract (any type of data that the application is using)
-- code : raw machine code for this contract
+- **balance** : amount of ether this account owns
+- **storage** : data storage for this contract (any type of data that the application is using)
+- **code** : raw machine code for this contract
+
+## Differentiating the account types
 
 - **External account** like Metamask are completely different from these contract accounts as they are owned and controlled by individuals and can be used on any Ether Network.
 
