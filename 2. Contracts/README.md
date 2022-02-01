@@ -1,4 +1,4 @@
-# Contracts
+# Contracts (Local Deployment)
 
 ## Contract Deployment
 
@@ -34,3 +34,9 @@
 - Ganache provides unlocked accounts on the local test network which can be used to deploy the contract and test the transactions.
 - To deploy the contract, we simply need to import the compiled `interface` (ABI) and the `bytecode` from the js file.
 - Web3 can be used to create a new contract or communicate with an existing contract.
+
+---
+
+# Contracts (Test Deployment)
+
+## Infura API
